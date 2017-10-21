@@ -20,6 +20,7 @@
 		324B60601D33E5200050B083 /* SegmentioOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 324B60561D33E5200050B083 /* SegmentioOptions.swift */; };
 		962808931F9BF55B0094E89F /* devViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962808921F9BF55B0094E89F /* devViewController.swift */; };
 		962808951F9BF5D20094E89F /* newViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962808941F9BF5D20094E89F /* newViewController.swift */; };
+		962808971F9BF6700094E89F /* dev2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 962808961F9BF6700094E89F /* dev2ViewController.swift */; };
 		C5514DD81DAB5B82008F14AA /* BadgeViewPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5514DD31DAB5B82008F14AA /* BadgeViewPresenter.swift */; };
 		C5514DD91DAB5B82008F14AA /* BadgeWithCounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5514DD51DAB5B82008F14AA /* BadgeWithCounterView.swift */; };
 		C5514DDA1DAB5B82008F14AA /* BadgeWithCounterViewBigSized.xib in Resources */ = {isa = PBXBuildFile; fileRef = C5514DD61DAB5B82008F14AA /* BadgeWithCounterViewBigSized.xib */; };
@@ -42,6 +43,7 @@
 		324B60561D33E5200050B083 /* SegmentioOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegmentioOptions.swift; sourceTree = "<group>"; };
 		962808921F9BF55B0094E89F /* devViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = devViewController.swift; sourceTree = "<group>"; };
 		962808941F9BF5D20094E89F /* newViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newViewController.swift; sourceTree = "<group>"; };
+		962808961F9BF6700094E89F /* dev2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dev2ViewController.swift; sourceTree = "<group>"; };
 		C5514DD31DAB5B82008F14AA /* BadgeViewPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeViewPresenter.swift; sourceTree = "<group>"; };
 		C5514DD51DAB5B82008F14AA /* BadgeWithCounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeWithCounterView.swift; sourceTree = "<group>"; };
 		C5514DD61DAB5B82008F14AA /* BadgeWithCounterViewBigSized.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BadgeWithCounterViewBigSized.xib; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 		324B601D1D33E3CC0050B083 = {
 			isa = PBXGroup;
 			children = (
+				962808961F9BF6700094E89F /* dev2ViewController.swift */,
 				962808941F9BF5D20094E89F /* newViewController.swift */,
 				962808921F9BF55B0094E89F /* devViewController.swift */,
 				324B60411D33E43E0050B083 /* Segmentio */,
@@ -230,6 +233,7 @@
 				C5514DD81DAB5B82008F14AA /* BadgeViewPresenter.swift in Sources */,
 				324B60591D33E5200050B083 /* SegmentioCellWithImageAfterLabel.swift in Sources */,
 				324B605F1D33E5200050B083 /* Segmentio.swift in Sources */,
+				962808971F9BF6700094E89F /* dev2ViewController.swift in Sources */,
 				962808951F9BF5D20094E89F /* newViewController.swift in Sources */,
 				324B60581D33E5200050B083 /* SegmentioCellWithImage.swift in Sources */,
 				324B605A1D33E5200050B083 /* SegmentioCellWithImageBeforeLabel.swift in Sources */,
